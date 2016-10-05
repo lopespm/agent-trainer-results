@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Volumes/MainDisk/Pedro/Development/machine_learning/outrun_ai/agent_trainer_results/201609040550_5010eps/cenas/q_network_new.dat"
+all_model_checkpoint_paths: "/Volumes/MainDisk/Pedro/Development/machine_learning/outrun_ai/agent_trainer_results/201609040550_5010eps/cenas/q_network_new.dat"

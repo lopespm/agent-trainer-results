@@ -1,0 +1,2 @@
+model_checkpoint_path: "/shared/train_results/201609171218/q_network.data"
+all_model_checkpoint_paths: "/shared/train_results/201609171218/q_network.data"
